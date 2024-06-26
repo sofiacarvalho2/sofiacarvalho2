@@ -1,8 +1,8 @@
 ## Oii eu sou a Sofia!
 🔭 Sou estudante, faço faculdade de ADS (analise e desenvolvimento de sistemas) e SI (sistemas de informção).<br>
 👋 Estou em busca de estágio.<br>
-👯 Busco colaborar, aprender, trabalhar, ajudar e revisar códigos de outras pessoas para contibuir em minha jornada.<br>
 🤝 Procuro ajudar e contribuir, tanto para meu aprendizado quanto para o aprendizado de outros.<br>
+👯 Busco colaborar, aprender, trabalhar, ajudar e revisar códigos de outras pessoas para contibuir em minha jornada.<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiacarvalho2&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiacarvalho2&layout=compact&theme=transparent)
@@ -19,4 +19,5 @@
 <div>
   <a href="https://instagram.com/davidsofia26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href = "mailto:sofiacarvalho2004@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sofia-david-de-carvalho-70006b316" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+  <a href="https://www.linkedin.com/in/sofia-david-de-carvalho-70006b316" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
